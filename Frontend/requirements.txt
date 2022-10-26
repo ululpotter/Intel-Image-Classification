@@ -1,0 +1,10 @@
+streamlit
+seaborn
+pandas
+numpy
+matplotlib
+joblib
+resize
+image
+scikit-learn==1.0.2
+scikit-image==0.19.3
