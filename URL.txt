@@ -1,0 +1,1 @@
+https://image-class-predict-ulul.herokuapp.com/
